@@ -25,10 +25,12 @@ export default {
     height: 600px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h2 {
-    text-align: center;
     font-size: 100px;
     color: white;
     text-transform: uppercase;
